@@ -19,7 +19,7 @@ The port scanning honeypot is a Python-based tool designed to detect and log sus
 1. Run the Honeypot:
    - Execute the script with administrative privileges:
        ```
-       sudo python port_honeypot.py
+       sudo python honeypot.py
        ```
    - The honeypot will start listening on the specified network interface (default is eth0).
 
